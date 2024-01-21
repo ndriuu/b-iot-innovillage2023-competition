@@ -12,12 +12,12 @@
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BMP280.h>
 
-#define WIFI_SSID "andri"
-#define WIFI_PASSWORD "qqqqqqqq"
+#define WIFI_SSID "____"
+#define WIFI_PASSWORD "_____"
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyD7Om0Wi_NqWiddn1SHe3fZIIMSuwWDWx4"
+#define API_KEY "_______"
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://b-iot-fb63c-default-rtdb.firebaseio.com/" 
+#define DATABASE_URL "_______" 
 
 #define NUMCHILDPATH 2
 String controlParentPath = "/b-iot/control";
