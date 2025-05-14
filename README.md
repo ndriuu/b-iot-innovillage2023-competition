@@ -50,14 +50,10 @@ This project demonstrates a complete IoT solution focused on:
 
 Include screenshots of the mobile application below:
 
-<img src="img/Layout.jpg" width="400" alt="Layout" /><img src="img/Home.jpg" width="400" alt="Layout" />
+<img src="img/Layout.jpg" width="400" alt="Layout" /><img src="img/Home.jpg" width="421" alt="Layout" />
 
 ## 📜 License
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
-
-## 👥 Team
-
-Developed by Aruna and team for Innovillage 2023.
 
 ---
